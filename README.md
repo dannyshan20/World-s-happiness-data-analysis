@@ -19,4 +19,6 @@ For the **pre-processing** part, we selected few columns to display in the plot 
 
 ## 2. Results and Visualizations
 
+There were few analysis performed 
+
 
