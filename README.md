@@ -11,4 +11,7 @@ Below I will explain the analysis in following way
 
 ## 1. Data Analysis
 
-The data set was taken from kaggle (https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv) which was orginally taken from Gallup World Survey. There were mutliple parameters on which the 
+The data set was taken from kaggle (https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv) which was orginally taken from Gallup World Survey. There were mutliple parameters on which the happiness score is calculated. Here is the list of attributes/paramters used to calculate happiness score.
+
+![GitHub Logo](/Figures/Data columns.png)
+
